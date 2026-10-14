@@ -32,6 +32,16 @@ El modelo se utiliza como apoyo para:
 - Apoyar la elaboración de código en Python y ArcPy.
 - Documentar e interpretar los resultados.
 
+## Imágenes del área de estudio
+
+### Composición RGB de 2016
+
+![Composición RGB de Lagos de Torca en 2016](images/rgb_lagos_torca_2016.png)
+
+### Composición RGB de 2026
+
+![Composición RGB de Lagos de Torca en 2026](images/rgb_lagos_torca_2026.png)
+
 ## Autor
 
 - **Nombre:** Tatiana Alexandra Otálora Casas
