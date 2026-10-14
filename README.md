@@ -36,11 +36,11 @@ El modelo se utiliza como apoyo para:
 
 ### Composición RGB de 2016
 
-![Composición RGB de Lagos de Torca en 2016](images/rgb_lagos_torca_2016.png)
+![Composición RGB de Lagos de Torca en 2016](images/2016.png)
 
 ### Composición RGB de 2026
 
-![Composición RGB de Lagos de Torca en 2026](images/rgb_lagos_torca_2026.png)
+![Composición RGB de Lagos de Torca en 2026](images/2026.png)
 
 ## Autor
 
